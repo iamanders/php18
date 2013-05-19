@@ -1,0 +1,4 @@
+string1: "Hej och välkommen!"
+
+group1:
+	test: 'You can have multiple levels'

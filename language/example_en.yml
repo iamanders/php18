@@ -1,0 +1,5 @@
+string1: "Hello and welcome!"
+string2: "Hello from english!"
+
+group1:
+	test: 'You can have multiple levels'
