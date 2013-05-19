@@ -1,5 +1,5 @@
 # php18
-Simple PHP class for translating multiple language projects
+PHP class for working with multi language projects
 
 ## Features
 
